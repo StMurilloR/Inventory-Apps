@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">Login</string>
+    <string name="profile_fragment_label">INICIAR SESIÓN</string>
+    <string name="text_login">ZONA DE INGRESO</string>
+    <string name="ID_PRODUCT">ID PRODUCTO</string>
+    <string name="name_PRODUCT">PRODUCTO</string>
+    <string name="number_PRODUCT">CANTIDAD</string>
+    <string name="register_fragment_label">REGISTRARSE</string>
+    <string name="wardrove_fragment_label">PEDIDOS</string>
+    <string name="port_fragment_label">Puertos</string>
+    <string name="report_fragment_label">Reporte</string>
+    <string name="guide_fragment_label">Guia</string>
+    <string name="map_fragment_label">Mapa</string>
+    <string name="previous">Previous</string>
+    <string name="profileFragment">Fragmento de perfil</string>
+
+    <string name="hello_first_fragment">Fragmento de login</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="register_fragment">Fragmento de registro</string>
+    <string name="map_fragment">Fragmento de mapa</string>
+    <string name="hello">Hello</string>
+
+    <string name="data_base_name">BOBSU_DATABASE</string>
+
+    <string name="email">Usuario - Email</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="second_name">Apellido</string>
+    <string name="age">Edad</string>
+    <string name="contratist">Contratista</string>
+    <string name="identification">Cédula</string>
+    <string name="register">REGISTRARSE</string>
+    <string name="post">Cargo</string>
+    <string name="code">Código</string>
+    <string name="contractor">Contratista</string>
+    <string name="changePass">CAMBIAR CONTRASEÑA</string>
+    <string name="showPorts">REALIZAR PEDIDO</string>
+    <string name="accept">ACEPTAR</string>
+
+    <string name="null_user">El usuario no existe</string>
+    <string name="fill_user">DATOS INCOMPLETOS</string>
+    <string name="fill_user_order">DATOS INCOMPLETOS, LLENE UN ESPACIO</string>
+    <string name="product_ok">PRODUCTO DISPONIBLE</string>
+    <string name="product_NO_ONE">PRODUCTO DEL ITEM 1. NO DISPONIBLE</string>
+    <string name="product_NO_TWO">PRODUCTO DEL ITEM 2. NO DISPONIBLE</string>
+    <string name="product_NO_THREE">PRODUCTO DEL ITEM 3. NO DISPONIBLE</string>
+    <string name="product_NO_FOUR">PRODUCTO DEL ITEM 4. NO DISPONIBLE</string>
+    <string name="profile_image">AGREGUE UNA FOTO DE PERFIL PRIMERO</string>
+    <string name="incorrect_password">CONTRASEÑA NO VALIDA</string>
+    <string name="erase">BORRAR</string>
+    <string name="select_aplication">SELECCIONE UNA APLICACION</string>
+    <string name="select">SELECCIONE</string>
+
+    <string name="district">Distrito</string>
+    <string name="address">Direccion</string>
+    <string name="cabinetCode">Codigo Armario</string>
+    <string name="cabinet">ARMARIO</string>
+    <string name="searchPorts">Buscar Puertos</string>
+    <string name="reportState">REPORTAR ESTADO</string>
+    <string name="busyPort">OCUPAR PUERTO</string>
+    <string name="state_one">Disponible</string>
+    <string name="state_two">Ocupado</string>
+    <string name="state_three">Dañado</string>
+    <string name="tip_one">Tenga en cuenta:</string>
+    <string name="ports">PUERTOS</string>
+
+    <string name="confirm">CONFIRMACIÓN</string>
+    <string name="portConfirmation">CONFIRMA QUE OCUPARA EL PUERTO NUMERO </string>
+    <string name="portReport">REPORTE DE PUERTO</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="save">GUARDAR</string>
+    <string name="changeState">CAMBIAR ESTADO</string>
+    <string name="central">CENTRAL</string>
+    <string name="portNumber">NUMERO DE PUERTO</string>
+    <string name="selectInformation">DATOS NO SELECCIONADOS, LLENE LA CENTRAL Y EL ARMARIO PRIMERO.</string>
+
+    <string name="guide">GUÍA TÉCNICA</string>
+    <string name="userGuide">Recuerde señor técnico tener en cuenta estos parámetros para la elección viable de su puerto:\n\n\n
+        • Disponibilidad del puerto\n\n
+        • Realice la prueba espejo del puerto de voz y datos\n\n
+        • Visualice que el puerto este en buen estado antes de escoger su puerto cerciórese de que su número de listón presente:
+        • Los voltajes, y resistencias correctas\n\n
+        • El puerto se encuentre en buen estado\n\n\n
+Tenga en cuenta que el número del listón que viene de la central debe conectarse directamente al puerto de voz, y del puerto de datos debe salir la línea hacia el par del poste.</string>
+
+    <string-array name="post_list">
+        <item>TECNICO</item>
+        <item>AUX. TECNICO</item>
+    </string-array>
+
+    <string-array name="cabinet_list">
+        <item></item>
+        <item>31002</item>
+        <item>31010</item>
+        <item>31011</item>
+        <item>31014</item>
+    </string-array>
+
+    <string-array name="ports_state_list">
+        <item>Estado de puertos</item>
+        <item>Disponible</item>
+        <item>Ocupado</item>
+        <item>Dañado</item>
+    </string-array>
+
+</resources>
